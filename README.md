@@ -1,5 +1,4 @@
-# hello-world
-I'm writing a description because the tutorial is saying I have to write a short description, woohoo! 
-I'm Cassie Cantrell,
-My favorite color is pink but it's hard to tell because I'm always wearing black, and
-I have an addiction to buying books, but hey, I at least read them! I hope my son ends up loving to read as much as I do!!!
+# Cassie Cantrell
+### CSCI-205 Integrated Project
+- Favorite language: I've always loved HTML because to me, it's the absolute easiest, but I love C++ and Python also!
+- Dream job: Anything that involves computers has always been my dream job, but if I'm honest, when I was a kid, I got super into computers because I wanted to be a hacker like Garcia from Criminal Minds!
